@@ -1,0 +1,38 @@
+body,
+html {
+    background-color: black !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+    color: wheat;
+    font-family: sans-serif;
+}
+
+#white {
+    background-color: whitesmoke;
+}
+
+.black {
+    color: black;
+}
+
+.imgContainer {
+    height: 20em;
+}
+
+.verticalImg {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+}
+
+.horizontalImg {
+    height: 23.5em;
+    width: 40em;
+    margin-bottom: 1px;
+}
